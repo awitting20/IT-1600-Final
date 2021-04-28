@@ -10,7 +10,7 @@ First, make sure the latest version of Pythong IDLE is installed on the device y
 
 Once that is done, open the program and open up a new file in the top left corner under "file".
 
-#### Time to Code;
+### Time to Code;
 When Python is ready to go, you simply must type "print" out into the box.
 
 After "print" is typed, you must put a set of parenthesis after. It will look something like this "print()"
@@ -19,7 +19,7 @@ Next, between the parenthesis, you must put a set of quotations so that the prog
 
 Once you have "print("")" typed out, in between the quotations, put whatever you wish to be printed out. 
 
-#### Results;
+### Results;
 Finally, when you are ready, go to the tool bar on the top of the program and hit "run." 
 
 Before running, it will make you save the file. 
@@ -27,5 +27,7 @@ Before running, it will make you save the file.
 Once it is saved, the Python Shell should appear with what you had put into the function.
 
 
-#### Overview;
+### Overview;
 The "print" function is a basic, entery-level piece of coding. Though it is easy to master, it is very important to writing bigger, more complex codes in the future. This tutorial is for any beginner level programmer who needs to find a start. 
+
+I hope this tutorial was helpful! Good luck coding!
