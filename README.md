@@ -1,7 +1,8 @@
-# **How to Learn to Code in a Pandemic**
-*By: Aaron Witting*
+# **How to use the "print" Function in Python**
+##*By: Aaron Witting*
 
-If you ever find yourself admist a global pandemic and are unable to go to your coding class, this tutorial is for you! I have had first hand experience on what this looks like and have found the best ways to maximize learning. Learning any subject during a pandemic in online classes can be difficult, but computer programming is one I struggled most with. If you have fallen into the same boat, this tutorial will be helpful to you!
+The "print" function in python is one of the most basic-level entery functions in the language. This code is quite easy to master and is always fun to play with when beginning to learn to code. This funtion is simple and easy to know. The information in this tutorial is beneficial to anyone beginning to learn how to code. The "print" funciton may be basic, but it never goes away, so it is wise to learn and memorize it!
 
-This tutorial is for anyone who might be experiencing a global pandemic and are learning to program via online classes.
+This tutorial is for anyone who has just began to learn how to code. 
 
+### Let's get started!
